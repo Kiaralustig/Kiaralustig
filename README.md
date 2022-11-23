@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kiara
-- 👀 I’m interested in Frontend Development and want to start in the tech industry!
+- 👀 I’m interested in software Development and want to start in the tech industry!
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me on <a href=https://www.linkedin.com/in/kiara-lustig-156447153/>Linkedin</a> 
